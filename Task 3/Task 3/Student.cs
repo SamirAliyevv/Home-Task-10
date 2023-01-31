@@ -12,7 +12,7 @@ namespace Task_3
         public string Name;
         public string GroupNo;
         public int count;
-        public int _totalcount;
+        static public int _totalcount;
 
 
         public Student()
